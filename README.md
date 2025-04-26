@@ -17,5 +17,6 @@ emmmmmm. (i list below)
 - ... too bee continued
 
 ## archives
-- [astonishingly show the LGM algorithm level in CF2016F problem, and offer the fking hell world a perfect accepted code without any verbose or ugly special judgement on data](./codes/CF2016F-Gobin.cpp)
-
+- [2025.4.25 astonishingly show the LGM algorithm level in CF2016F problem, and offer the fking hell world a perfect accepted code without any verbose or ugly special judgement on data](./codes/CF2016F-Gobin.cpp)
+- [2025.4.27 wtf well out of sudden interest, our QZ register for the codeforces div-2 today, and solve totally 3 problems which enables cute her to rank 710 at the end... that's kind crazy in my eyes QwQ](./codes/CF2098-some-code-exerpts.cpp)
+- 2025.4.27 in Mahjong Soul use free tickets roll out a character www. That's so lucky a dog!!! AwA
